@@ -1,0 +1,15 @@
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAddingNumbers\bin\Debug\net6.0\IKFergusonAddingNumbers.exe
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAddingNumbers\bin\Debug\net6.0\IKFergusonAddingNumbers.deps.json
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAddingNumbers\bin\Debug\net6.0\IKFergusonAddingNumbers.runtimeconfig.json
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAddingNumbers\bin\Debug\net6.0\IKFergusonAddingNumbers.dll
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAddingNumbers\bin\Debug\net6.0\IKFergusonAddingNumbers.pdb
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAddingNumbers\obj\Debug\net6.0\IKFergusonAddingNumbers.csproj.AssemblyReference.cache
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAddingNumbers\obj\Debug\net6.0\IKFergusonAddingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAddingNumbers\obj\Debug\net6.0\IKFergusonAddingNumbers.AssemblyInfoInputs.cache
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAddingNumbers\obj\Debug\net6.0\IKFergusonAddingNumbers.AssemblyInfo.cs
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAddingNumbers\obj\Debug\net6.0\IKFergusonAddingNumbers.csproj.CoreCompileInputs.cache
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAddingNumbers\obj\Debug\net6.0\IKFergusonAddingNumbers.dll
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAddingNumbers\obj\Debug\net6.0\refint\IKFergusonAddingNumbers.dll
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAddingNumbers\obj\Debug\net6.0\IKFergusonAddingNumbers.pdb
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAddingNumbers\obj\Debug\net6.0\IKFergusonAddingNumbers.genruntimeconfig.cache
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAddingNumbers\obj\Debug\net6.0\ref\IKFergusonAddingNumbers.dll
